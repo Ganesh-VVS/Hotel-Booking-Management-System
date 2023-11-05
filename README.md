@@ -67,6 +67,18 @@ Before you begin, ensure you have met the following requirements:
 - Customize the look and feel of the user interface by modifying the HTML and CSS.
 ## Screenshots
 
+![Alt text](file:///C:/Users/Administrator/Desktop/git/1.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/2.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/3.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/4.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/5.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/6.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/7.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/8.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/9.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/10.png)
+![Alt text](file:///C:/Users/Administrator/Desktop/git/11.png)
+
 ![Hotel Management System Screenshot 1](file:///C:/Users/Administrator/Desktop/git/1.png)
 
 ![Hotel Management System Screenshot 2](file:///C:/Users/Administrator/Desktop/git/2.png)
