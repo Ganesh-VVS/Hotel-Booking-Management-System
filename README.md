@@ -67,17 +67,7 @@ Before you begin, ensure you have met the following requirements:
 - Customize the look and feel of the user interface by modifying the HTML and CSS.
 ## Screenshots
 
-![Alt text](file:///C:/Users/Administrator/Desktop/git/1.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/2.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/3.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/4.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/5.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/6.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/7.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/8.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/9.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/10.png)
-![Alt text](file:///C:/Users/Administrator/Desktop/git/11.png)
+
 
 ![Hotel Management System Screenshot 1](file:///C:/Users/Administrator/Desktop/git/1.png)
 
@@ -104,3 +94,8 @@ Before you begin, ensure you have met the following requirements:
 
 
 Thank you for using the Hotel Management System. We hope it simplifies your hotel's operations and enhances your guest's experience. If you have any questions or encounter issues, please don't hesitate to reach out to us.
+
+DONE BY :
+1)CH. PAVAN KALYAN
+2)V.V.S. GANESH
+3)V. MANI KUMAR
