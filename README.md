@@ -65,6 +65,30 @@ Before you begin, ensure you have met the following requirements:
 - Modify the database schema to accommodate additional data fields.
 - Implement additional security measures or authentication methods.
 - Customize the look and feel of the user interface by modifying the HTML and CSS.
+## Screenshots
+
+![Hotel Management System Screenshot 1](file:///C:/Users/Administrator/Desktop/git/1.png)
+
+![Hotel Management System Screenshot 2](file:///C:/Users/Administrator/Desktop/git/2.png)
+
+![Hotel Management System Screenshot 3](file:///C:/Users/Administrator/Desktop/git/3.png)
+
+![Hotel Management System Screenshot 4](file:///C:/Users/Administrator/Desktop/git/4.png)
+
+![Hotel Management System Screenshot 5](file:///C:/Users/Administrator/Desktop/git/5.png)
+
+![Hotel Management System Screenshot 6](file:///C:/Users/Administrator/Desktop/git/6.png)
+
+![Hotel Management System Screenshot 7](file:///C:/Users/Administrator/Desktop/git/7.png)
+
+![Hotel Management System Screenshot 8](file:///C:/Users/Administrator/Desktop/git/8.png)
+
+![Hotel Management System Screenshot 9](file:///C:/Users/Administrator/Desktop/git/9.png)
+
+![Hotel Management System Screenshot 10](file:///C:/Users/Administrator/Desktop/git/10.png)
+
+![Hotel Management System Screenshot 11](file:///C:/Users/Administrator/Desktop/git/11.png)
+
 
 
 Thank you for using the Hotel Management System. We hope it simplifies your hotel's operations and enhances your guest's experience. If you have any questions or encounter issues, please don't hesitate to reach out to us.
